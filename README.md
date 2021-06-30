@@ -12,6 +12,11 @@ Available api:
 - GET: `/api/tasks`
 - POST: `/api/tasks`
 - POST: `/api/tasks/notify`
+- GET: `/api/articles`
+- GET: `/api/articles/:slug`
+- POST: `/api/articles`
+- PUT: `/api/articles/:slug`
+
 
 ## Installation
 
